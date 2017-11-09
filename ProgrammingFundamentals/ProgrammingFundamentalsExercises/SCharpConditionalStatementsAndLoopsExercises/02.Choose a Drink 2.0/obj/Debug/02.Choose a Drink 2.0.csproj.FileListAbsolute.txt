@@ -1,0 +1,7 @@
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\bin\Debug\02.Choose a Drink 2.0.exe.config
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\bin\Debug\02.Choose a Drink 2.0.exe
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\bin\Debug\02.Choose a Drink 2.0.pdb
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\obj\Debug\02.Choose a Drink 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\obj\Debug\02.Choose a Drink 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\obj\Debug\02.Choose a Drink 2.0.exe
+C:\Users\Radoslav Velkov\Documents\GitHub\SCharpConditionalStatementsAndLoopsExercises\02.Choose a Drink 2.0\obj\Debug\02.Choose a Drink 2.0.pdb

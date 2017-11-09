@@ -1,0 +1,2 @@
+C:\Users\Radoslav Velkov\Documents\GitHub\Data Types and Variables - Exercises\DataTypesАndVariablesExercises\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav Velkov\Documents\GitHub\Data Types and Variables - Exercises\DataTypesАndVariablesExercises\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csproj.CoreCompileInputs.cache
